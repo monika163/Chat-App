@@ -100,7 +100,7 @@ npm start
 
 ---
 
-#### Page after uset login
+#### Page after user login
 
 ![3 after login abhishek](https://github.com/user-attachments/assets/5b4cb6b3-479d-47aa-8115-6c521ae299c4)
 
