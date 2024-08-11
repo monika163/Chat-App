@@ -79,10 +79,10 @@ npm install
 Run the backend & frontend with concurrently
 npm run dev
 
-Run the backend server only
+Run the backend only
 npm start
 
-Run the frontend clients only
+Run the frontend only
 npm start
 ```
 
