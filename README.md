@@ -2,7 +2,7 @@
 
 It is a real-time application built using the MERN stack. It provides users with a seamless and interactive chatting experience.
 
-Deployed link : https://food-delivery-app-1-ervk.onrender.com/
+Deployed link : https://chat-app-qli7.onrender.com
 
 ## Chat App with MERN Stack (MongoDB, Express, React & Nodejs)
 
